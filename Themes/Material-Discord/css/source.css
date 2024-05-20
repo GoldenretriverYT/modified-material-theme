@@ -7095,7 +7095,7 @@ div[role=radiogroup].group__6ae8b {
 
 .mentioned_fa6fd2 .messageContent_abea64 {
   position: relative;
-  background-color: hsl(var(--accent-hsl), 0.3);
+  background-color: hsl(var(--mentioned-hsl), 0.3);
   border-radius: calc(var(--message-radius) / 1.4);
   transition: var(--default-time) var(--default-animation) background-color;
 }
