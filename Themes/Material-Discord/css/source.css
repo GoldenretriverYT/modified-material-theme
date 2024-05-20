@@ -7100,10 +7100,10 @@ div[role=radiogroup].group__6ae8b {
   transition: var(--default-time) var(--default-animation) background-color;
 }
 .mentioned_fa6fd2 .messageContent_abea64:hover {
-  background-color: hsl(var(--accent-hsl), 0.375);
+  background-color: hsl(var(--mentioned-hsl), 0.375);
 }
 .mentioned_fa6fd2 .messageContent_abea64 a {
-  color: hsl(var(--accent-hsl));
+  color: hsl(var(--mentioned-hsl));
 }
 .mentioned_fa6fd2 .messageContent_abea64 .wrapper__53064 {
   background-color: transparent;
