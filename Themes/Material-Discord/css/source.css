@@ -7,6 +7,7 @@
   --accent-saturation: 71%;
   --accent-lightness: 61%;
   --accent-hsl: var(--accent-hue),calc(var(--accent-saturation) * var(--saturation-factor)),var(--accent-lightness);
+  --mentioned-hsl: var(--mentioned-hue),calc(var(--mentioned-saturation) * var(--saturation-factor)),var(--accent-lightness);
   --accent-text-color: hsl(0,0%,100%);
   --alert-hue: 0;
   --alert-saturation: 85%;
